@@ -1,6 +1,5 @@
 use company;
 
-1: 
 // Create the Employee collection and insert 6 documents
 db.Employee.insertMany([
     {
